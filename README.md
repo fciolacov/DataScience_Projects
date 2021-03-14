@@ -14,3 +14,5 @@
 ✓	Agile Scrum methodology.<br>
 ✓	Business process modeling using BPMN.<br>
 ✓	Experience in deployments, user team trainings and customer support. <br>
+
+**Background in:** Genexus, Qliksense, Systems and Data analysis.
