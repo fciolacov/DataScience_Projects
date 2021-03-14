@@ -4,7 +4,7 @@
 
 # Felipe Ciolacov
 
-✓	Solid experience in analysis, development, maintenance in Information technology area. <br>
+✓	Solid experience in analysis, development and maintenance of ERP, WMS, MES and CRM systems. <br>
 ✓ Experience in implementation of ETL/ELT, DataStage/DataWarehouse and BI applications using QlikSense panels and dashboards.<br>
 ✓	Applying concepts of statistical modelling, machine learning, data mining, web mining, analytics, master data management and data visualization in academic projects. Utilizing SSIS-Integration Services, Python, R and RapidMiner tool.<br>
 ✓	SQL Server and MySql.<br>
