@@ -22,5 +22,5 @@
 
 ## Projects:
 
-* [AirBnb-New York. Uma beve análise exploratória de dados] (https://github.com/fciolacov/DataScience_Projects/blob/main/Airbnb_New_York_Analise_Exploratoria.ipynb)
+* [AirBnb-New York. Uma beve análise exploratória de dados](https://github.com/fciolacov/DataScience_Projects/blob/main/Airbnb_New_York_Analise_Exploratoria.ipynb)
 
