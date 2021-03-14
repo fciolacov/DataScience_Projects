@@ -16,3 +16,11 @@
 ✓	Experience in deployments, user team trainings and customer support. <br>
 
 **Background in:** Genexus, Qliksense, Systems and Data analysis.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/fciolacov)
+
+## Projects:
+
+* [AirBnb-New York. Uma beve análise exploratória de dados] (https://github.com/fciolacov/DataScience_Projects/blob/main/Airbnb_New_York_Analise_Exploratoria.ipynb)
+
