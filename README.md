@@ -3,6 +3,7 @@
 </p>
 
 # Felipe Ciolacov
+<sub>*Systems Analyst/Genexus Developer/BI Developer* at Hiroshima Catálogos</sub>
 
 ✓	Solid experience in analysis, development and maintenance of ERP, WMS, MES and CRM systems. <br>
 ✓ Experience in ETL/ELT development, DataStage/DataWarehouse architecture and BI applications using in-house, R and QlikSense development. <br>
