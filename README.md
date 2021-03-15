@@ -20,8 +20,8 @@
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fciolacov)
 
-* MBA Thesis: [Opinião no Twitter Sobre o Atual Presidente da República - Uma Aplicação de Análise de Sentimento](https://github.com/fciolacov/DataScience_Projects/blob/main/Opini%C3%A3o%20no%20Twitter%20Sobre%20o%20Atual%20Presidente%20da%20Rep%C3%BAblica%20-%20Uma%20Aplica%C3%A7%C3%A3o%20de%20An%C3%A1lise%20de%20Sentimento.pdf)
+* MBA Thesis: [Opinião no Twitter Sobre o Atual Presidente da República - Uma Aplicação de Análise de Sentimento (2019)](https://github.com/fciolacov/DataScience_Projects/blob/main/Opini%C3%A3o%20no%20Twitter%20Sobre%20o%20Atual%20Presidente%20da%20Rep%C3%BAblica%20-%20Uma%20Aplica%C3%A7%C3%A3o%20de%20An%C3%A1lise%20de%20Sentimento.pdf)
 
 ## Projects:
 
-* [AirBnb-New York. Uma beve análise exploratória de dados](https://github.com/fciolacov/DataScience_Projects/blob/main/Airbnb_New_York_Analise_Exploratoria.ipynb)
+* [AirBnb-New York. Uma breve análise exploratória de dados](https://github.com/fciolacov/DataScience_Projects/blob/main/Airbnb_New_York_Analise_Exploratoria.ipynb)
