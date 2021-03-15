@@ -6,7 +6,7 @@
 <sub>*Systems Analyst/Genexus Developer/BI Developer* at Hiroshima Catálogos</sub>
 
 ✓	Solid experience in analysis, development and maintenance of ERP, WMS, MES and CRM systems. <br>
-✓ Experience in ETL/ELT development, DataStage/DataWarehouse architecture and BI applications using in-house, R and QlikSense development. <br>
+✓ Experience in ETL/ELT development, DataStage/DataWarehouse architecture and BI applications using R, QlikSense and softwares in-house development. <br>
 ✓	Applying concepts of statistical modelling, machine learning, data mining, web mining, analytics, master data management and data visualization in academic projects. Utilizing SSIS-Integration Services, Python, R and RapidMiner tool.<br>
 ✓	SQL Server and MySql.<br>
 ✓	Knowledge in Genexus (versions 7.5 to 16), WWP, GxFlow, generators Visual FoxPro, RPG, C# and Java. Web, Windows and AS/400 platforms.<br>
@@ -15,7 +15,7 @@
 ✓	Business process modeling using BPMN.<br>
 ✓	Experience in deployments, user team trainings and customer support. <br>
 
-**Background in:** Genexus, Qliksense, Systems and Data analysis.
+**Background in:** Genexus, QlikSense, Systems and Data analysis.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fciolacov)
